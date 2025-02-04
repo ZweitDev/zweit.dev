@@ -20,7 +20,7 @@ export default function Home() {
                     <ul className="list-disc list-inside">
                         <li>Software and Hardware Hobbyists</li>
                         <li>Tech Enthusiasts</li>
-                        <li>Game Developerts</li>
+                        <li>Game Developers</li>
                         <li>Homelabbers</li>
                         <li>...and more!</li>
                     </ul>
